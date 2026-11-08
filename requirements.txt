@@ -1,0 +1,9 @@
+streamlit
+pandas
+fpdf
+python-docx
+openpyxl
+pyotp
+qrcode
+python-calamine
+xlrd
